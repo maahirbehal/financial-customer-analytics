@@ -61,7 +61,7 @@ MySQL 8.0 · MySQL Workbench · Microsoft Excel · GitHub
 
 **Open to entry-level and internship roles in Business Analysis, Data Analysis, and IT Support.**
 
-Author
+Author--
 Maahir Behal
 Early-career analyst with 2 internships and hands-on experience in business analysis, data analysis, and IT support.
 
