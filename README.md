@@ -13,8 +13,6 @@ MySQL 8.0 · MySQL Workbench · Microsoft Excel · GitHub
 ## Database Schema
 9 normalised tables (3NF) with foreign keys, constraints, and indexes.
 
-![Schema](screenshots/database_schema.png)
-
 `CUSTOMERS` · `ACCOUNTS` · `TRANSACTIONS` · `LOANS` · `REPAYMENTS` · `BRANCHES` · `PRODUCTS` · `ALERTS` · `MONTHLY_REPORTS`
 
 ---
