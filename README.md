@@ -62,4 +62,4 @@ MySQL 8.0 · MySQL Workbench · Microsoft Excel · GitHub
 ---
 
 **Open to entry-level and internship roles in Business Analysis, Data Analysis, and IT Support.**
-[LinkedIn](https://www.linkedin.com/in/maahirbehal)
+[LinkedIn](www.linkedin.com/in/maahir-behal-720392242)
