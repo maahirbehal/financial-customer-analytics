@@ -36,8 +36,8 @@ MySQL 8.0 · MySQL Workbench · Microsoft Excel · GitHub
 ## Dashboard Preview
 
 ![Executive Summary](screenshots/executive_summary.png)
-![Cohort Heatmap](screenshots/cohort_heatmap.png)
-![Churn Report](screenshots/churn_report.png)
+![Cohort Heatmap](screenshots/cohort_retention_heatmap.png)
+![Churn Report](screenshots/churn_risk_report.png)
 
 ---
 
